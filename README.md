@@ -43,16 +43,23 @@ streamlit run app.py
 ## Requirements
 
 Python 3.8+
+
 Poppler (required by pdf2image)
+
 Windows: Poppler for Windows
+
 Add the /bin folder from the Poppler zip to your system PATH
 
 ## Technologies Used
 
 Python
+
 Streamlit
+
 Google Gemini API (gemini-1.5-flash)
+
 pdf2image
+
 Pillow (PIL)
 
 
